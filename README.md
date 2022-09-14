@@ -1,6 +1,6 @@
 # TFM_Frames-Prediction
 
-https://user-images.githubusercontent.com/68307425/190269443-4d2ba2ad-6d8a-4103-81bd-e3a31ce047d1.mp4
+                              https://user-images.githubusercontent.com/68307425/190269443-4d2ba2ad-6d8a-4103-81bd-e3a31ce047d1.mp4
 
 ## ATTENTION!
 
@@ -30,7 +30,6 @@ Este código está adaptado a google colab. Será necesario hacer cambios para e
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Este proyecto esta basado en la idea de predecir los siguientes fotogramas en un video de una colonia de bacterias. Esto es util de cara a predecir como crecerá una colonia bacteriana. Especialmente en aquellos casos en los que hay varios tipos de bacterias en la colonia, y donde la relacion entre ellos puede ser competitiva o cooperativa.
-https://user-images.githubusercontent.com/68307425/190269443-4d2ba2ad-6d8a-4103-81bd-e3a31ce047d1.mp4
 
 Hay 4 archivos:
 
