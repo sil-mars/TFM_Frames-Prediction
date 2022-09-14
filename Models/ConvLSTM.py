@@ -14,8 +14,8 @@ from google.colab.patches import cv2_imshow
  
 class Args:
   mode = 'test'
-  input = '/content/'
-  save = '/content/drive/MyDrive/TFM/dataset'
+  input = '/dataset'
+  save = '/save/'
   lr = 0.001
   epochs = 100
  
