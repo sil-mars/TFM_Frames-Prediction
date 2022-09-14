@@ -15,7 +15,7 @@ from google.colab.patches import cv2_imshow
 class Args:
   mode = 'test'
   input = '/dataset'
-  save = '/save/'
+  save = '/save'
   lr = 0.001
   epochs = 100
  
